@@ -1,2 +1,2 @@
 # Civet
-Record coffees around the world and visualize 
+Record coffees around the world and visualise them. 
